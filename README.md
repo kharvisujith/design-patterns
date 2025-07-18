@@ -14,3 +14,10 @@ This repository contains **interview-focused design pattern implementations** us
 ### 🧠 Behavioral Patterns
 - **Strategy Pattern** – Dynamic behavior for payments and business entities
 - **Observer Pattern** – NewsAgency, Node.js EventEmitter, Notification system
+
+---
+
+
+## 📘 Documentation
+👉 [View Full Design Patterns Guide (PDF)](./Design-Patterns-Guide.pdf)
+
