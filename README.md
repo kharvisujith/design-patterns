@@ -1,4 +1,4 @@
-# 🔥 Design Patterns in JavaScript (MERN-Focused)
+# 🔥 Design Patterns in JavaScript 
 
 This repository contains **interview-focused design pattern implementations** using JavaScript/Node.js — complete with real-world examples, use cases, and production-inspired code.
 
